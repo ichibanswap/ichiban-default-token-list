@@ -1,0 +1,34 @@
+[
+  {
+    "name": "RIF",
+    "address": "0x2aCc95758f8b5F583470bA265Eb685a8f45fC9D5",
+    "symbol": "RIF",
+    "decimals": 18,
+    "chainId": 30,
+    "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rif.png"
+  },
+  {
+    "name": "RIF Dollar on Chain",
+    "address": "0x2d919f19D4892381d58EdEbEcA66D5642ceF1A1F",
+    "symbol": "RDOC",
+    "decimals": 18,
+    "chainId": 30,
+    "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rdoc.png"
+  },
+  {
+    "name": "Tether USD on RSK",
+    "address": "0xEf213441a85DF4d7acBdAe0Cf78004E1e486BB96",
+    "symbol": "rUSDT",
+    "decimals": 18,
+    "chainId": 30,
+    "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdt.png"
+  },
+  {
+    "name": "Wrapped RBTC on RSK",
+    "address": "0x967f8799aF07DF1534d48A95a5C9FEBE92c53ae0",
+    "symbol": "WRBTC",
+    "decimals": 18,
+    "chainId": 30,
+    "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/wrbtc.png"
+  }
+]

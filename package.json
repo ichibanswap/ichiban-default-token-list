@@ -1,19 +1,19 @@
 {
-  "name": "quickswap-default-token-list",
+  "name": "ichiban-default-token-list",
   "version": "1.2.59",
-  "description": "◦ The Quickswap default token list",
-  "main": "build/quickswap-default.tokenlist.json",
+  "description": "◦ The ichiban default token list",
+  "main": "build/ichiban-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/quickswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/ichiban-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/quickswap-default.tokenlist.json"
+    "build/ichiban-default.tokenlist.json"
   ],
   "keywords": [
     "uniswap",
-    "quickswap",
+    "ichiban",
     "default",
     "token",
     "list"
